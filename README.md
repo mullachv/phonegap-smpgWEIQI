@@ -1,2 +1,2 @@
 # phonegap-tictactoe
-Phonegap wrapper for tictactoe
+Phonegap wrapper for kalah
