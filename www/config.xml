@@ -2,18 +2,18 @@
 <!-- See: https://github.com/phonegap/phonegap-start/blob/master/www/config.xml -->
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.gamingplatform.kalah"
-        versionCode = "9"
+        id          = "com.gamingplatform.chess"
+        versionCode = "8"
         version     = "1.0.0" >
     <!-- versionCode is optional and Android only:
       needs to be increased every time you submit a new APK version.
       see: http://developer.android.com/tools/publishing/versioning.html
     -->
 
-    <name>Kalah</name>
+    <name>Chess</name>
 
     <description>
-        A multiplayer Kalah game.
+        A multiplayer Chess game.
     </description>
 
     <author href="http://mullachv.github.io/homepage/" email="mullachv@gmail.com">
@@ -92,8 +92,8 @@
 
     <!-- see: https://build.phonegap.com/plugins/1246 -->
     <gap:plugin name="com.phonegap.plugins.facebookconnect" source="pgb" version="0.9.0">
-        <param name="APP_ID" value="1532583813700530" />
-        <param name="APP_NAME" value="Kalah" />
+        <param name="APP_ID" value="1836518089908026" />
+        <param name="APP_NAME" value="Chess" />
     </gap:plugin>
 
     <!-- https://build.phonegap.com/plugins/2828 -->

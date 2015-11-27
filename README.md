@@ -1,2 +1,2 @@
-# phonegap-tictactoe
-Phonegap wrapper for kalah
+# phonegap-chess
+Phonegap wrapper for chess
