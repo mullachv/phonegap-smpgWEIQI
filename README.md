@@ -1,2 +1,2 @@
-# phonegap-chess
-Phonegap wrapper for chess
+# phonegap-smpgWEIQI
+Phonegap wrapper for go/WEIQI
